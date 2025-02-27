@@ -13,7 +13,7 @@ const Productcard = () =>{
         
         <div className = 'product-card-details'>
           
-            <img src = {productImage} alt = {productImage} className="image"/>
+            <img src = {productImage} alt = {productImage} className="image-path"/>
             <div className="product-details">
                 <h1>{productName}</h1>
                 <h2>{price}</h2>
