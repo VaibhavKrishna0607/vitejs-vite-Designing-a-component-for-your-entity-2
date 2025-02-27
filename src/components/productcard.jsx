@@ -3,7 +3,7 @@ import React from "react";
 import Button from "./button";
 
 const Productcard = () =>{
-    const productImage = 'Untitled.png';
+    const productImage = 'Untitled.jpg';
     const productName = 'ASOIAF Book';
     const price = '$49';
    
